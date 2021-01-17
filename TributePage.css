@@ -1,0 +1,14 @@
+#main{
+background-color:#999999;
+}
+#title{
+ background-color: #000000;
+ color:#FFFFFF; 
+ padding:10px 50px 10px 50px;   
+}
+#image{
+  margin:auto;
+  display:block;
+  max-width: 100%;  
+  background-color:#FF0000;
+}
